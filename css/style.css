@@ -146,7 +146,7 @@ body {
 .about,
 .menu,
 .contact {
-  padding: 9rem 7% 1.5rem; /*top, left-right, down */
+  padding: 12rem 7% 1.5rem; /*top, left-right, down */
 }
 
 .about h2,
@@ -192,7 +192,7 @@ body {
 /* Menu Section */
 hr.menu1 {
   border-top: 1px solid var(--primary);
-  padding-bottom: 0.5rem;
+  margin-bottom: 3rem;
 }
 .menu h2,
 .contact h2 {
